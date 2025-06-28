@@ -1,0 +1,10 @@
+# Flask Configuration
+SECRET_KEY=your-secret-key-change-in-production
+JWT_SECRET_KEY=your-jwt-secret-key-change-in-production
+
+# Database Configuration
+SQLALCHEMY_DATABASE_URI=sqlite:///focustrack.db
+
+# Development Settings
+FLASK_ENV=development
+FLASK_DEBUG=True 
