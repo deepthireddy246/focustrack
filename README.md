@@ -69,6 +69,8 @@ The backend will run on `http://localhost:5000`
 
 The frontend will run on `http://localhost:3000`
 
+<img src="https://github.com/deepthireddy246/focustrack/blob/main/focustrack_output.png" alt="Banner" width="100%">
+
 ## API Endpoints
 
 ### Authentication
