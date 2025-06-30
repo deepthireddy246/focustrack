@@ -93,7 +93,3 @@ The frontend will run on `http://localhost:3000`
 3. Start a Pomodoro session for any task
 4. Complete work sessions and breaks
 5. View your daily statistics and progress
-
-## Contributing
-
-Feel free to submit issues and enhancement requests! 
